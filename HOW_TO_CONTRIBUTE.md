@@ -1,11 +1,11 @@
 ## Como contribuyo?
 
-- Cear un fork
+- Crear un fork
     
-    Primero debes crear un fork para hacer una copia del        repositorio en tu lista de repositorios
+    Primero debes crear un fork para hacer una copia del repositorio en tu lista de repositorios
 - Clona el fork:
     
-    Clona el fork que hiciste sando el comando  ```git clone <URL repo> ```. Lo encontrarás en tu lista de repositorios de GitHub. Por ejemplo: ```git clone https://github.com/<usuario>/Umbra.git ```
+    Clona el fork que hiciste usando el comando  ```git clone <URL repo> ```. Lo encontrarás en tu lista de repositorios de GitHub. Por ejemplo: ```git clone https://github.com/<usuario>/Umbra.git ```
 - Crea un Upstream
 
     Un upstream es basicamente un enlace para mantener el seguimiento desde tu repositorio al repositorio del proyecto original. Para crearlo usa el comando ```git remote add upstream <link del repositorio original>```. Para confirmar que no se ha hecho algun cambio en el repositorio usa el comando ```git pull upstream master```.
